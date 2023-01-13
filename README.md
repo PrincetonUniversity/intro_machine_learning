@@ -6,6 +6,10 @@ This mini-course will provide a comprehensive introduction to machine learning. 
 
 Attendees should have some familiarity with Python and basic calculus.
 
+## Live Mini-Course
+
+The [Introduction to Machine Learning](https://cglink.me/2gi/r1924470) mini-course will be held during [Wintersession 2023](https://winter.princeton.edu) on January 17, 18, 19, 23, 24.
+
 ## Authorship
 
 The materials in this repository were created by Brian Arnold, Gage DeZoort, Christina Peters, Savannah Thias and Amy Winecoff.

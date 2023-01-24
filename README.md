@@ -12,4 +12,5 @@ The [Introduction to Machine Learning](https://cglink.me/2gi/r1924470) mini-cour
 
 ## Authorship
 
-The materials in this repository were created by Brian Arnold, Gage DeZoort, Christina Peters, Savannah Thias and Amy Winecoff.
+The materials in this repository were created by Brian Arnold, Gage DeZoort, 
+Jonathan Halverson, Christina Peters, Savannah Thias and Amy Winecoff.

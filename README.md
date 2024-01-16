@@ -14,27 +14,7 @@ The [Introduction to Machine Learning](https://cglink.me/2gi/r1938768) mini-cour
 
 Step 1: Go to [https://jdh4.github.io/intro-ml](https://jdh4.github.io/intro-ml)
 
-Step 2: Double click on `ML_overview_2024.ipynb` in the file listing on the left.
-
-Step 3: Make the first cell of the notebook the following:
-
-```python
-import piplite; await piplite.install("seaborn")
-```
-
-Step 4: Find the following two lines:
-
-```
-url_red = 'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv'
-url_white = 'https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv'
-```
-
-Replace the two lines above with:
-
-```
-url_red = 'winequality-red.csv'
-url_white = 'winequality-white.csv'
-```
+Step 2: Double click on `ML_overview_2024.ipynb` in the file listing on the left. You can then run the notebook.
 
 ## Authorship
 

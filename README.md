@@ -10,6 +10,15 @@ Attendees should have some familiarity with Python and basic calculus.
 
 The [Introduction to Machine Learning](https://cglink.me/2gi/r1938768) mini-course will be held during [Wintersession 2024](https://winter.princeton.edu) on January 16, 17, 18, 22, 23 in Lewis Library 120 at 2:00-4:00 PM.
 
+## Colab Not Working?
+
+Step 1: Go to [https://jdh4.github.io/intro-ml](https://jdh4.github.io/intro-ml)
+
+Step 2: Make the first cell of the notebook the following:
+```
+import piplite; await piplite.install("seaborn")
+```
+
 ## Authorship
 
 The materials in this repository were created by Brian Arnold, Gage DeZoort, Julian Gold,

@@ -12,9 +12,9 @@ The [Introduction to Machine Learning](https://cglink.me/2gi/r1938768) mini-cour
 
 ## Day 5 Hackathon
 
-- Introduction to LLMs
-- Learn about diffusion models (e.g., DALL-E 2) then build one and train a generative model for images
-- Computer vision: Learn more about CNNs, classify images of dogs and cats using a simple CNN, and use transfer learning with an advanced CNN (ResNet-50) to classify dogs versus cats.
+- Large Language Models: An introduction to LLMs.
+- Diffusion models: Learn about diffusion models (e.g., DALL-E 2) then build one and train a generative model for images.
+- Computer vision: Learn more about CNNs, classify dogs versus cats using a simple CNN, and use transfer learning with an advanced CNN (ResNet-50) to classify dogs versus cats.
 
 ## Colab Not Working?
 

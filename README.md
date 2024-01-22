@@ -10,6 +10,12 @@ Attendees should have some familiarity with Python and basic calculus.
 
 The [Introduction to Machine Learning](https://cglink.me/2gi/r1938768) mini-course will be held during [Wintersession 2024](https://winter.princeton.edu) on January 16, 17, 18, 22, 23 in Lewis Library 120 at 2:00-4:00 PM.
 
+## Day 5 Hackathon
+
+- Introduction to LLMs
+- Learn about diffusion models (e.g., DALL-E 2) then build one and train a generative model for images
+- Computer vision: Learn more about CNNs, classify images of dogs and cats using a simple CNN, and use transfer learning with an advanced CNN (ResNet-50) to classify dogs versus cats.
+
 ## Colab Not Working?
 
 You can run the notebooks for days 1 and 2 of this workshop using only a web browser thanks to jupyterlite. 

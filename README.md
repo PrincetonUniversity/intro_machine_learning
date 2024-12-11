@@ -16,6 +16,8 @@ The [Introduction to Machine Learning](https://cglink.me/2gi/r1938768) mini-cour
 - Diffusion models: Learn about diffusion models (e.g., DALL-E 2) then build one and train a generative model for images.
 - Large Language Models: This session introduces the basics of language modeling using the transformer architecture. Participants will learn how to download and fine-tune an LLM using the Hugging Face library.
 
+## Undergraduate A.I. Conference in Princeton
+
 ## Colab Not Working?
 
 You can run the notebooks for days 1 and 2 of this workshop using only a web browser thanks to jupyterlite. 

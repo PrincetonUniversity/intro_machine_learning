@@ -19,7 +19,7 @@ Choose one of these options:
     Simon Park, Graduate Student, Computer Science and PLI  
     Abhishek Panigrahi, Graduate Student, Computer Science and PLI  
 
-* [Machine Learning for the Physical Sciences](https://cglink.me/2gi/r1951387)
+* [Machine Learning for the Physical Sciences](https://cglink.me/2gi/r1951387)  
     Wednesday, January 22, 2025 at 2:00-3:30 PM  
     Location: Lewis Library 134  
     Instructors:  
@@ -37,10 +37,10 @@ Choose one of these options:
 
 To prepare for this mini-course, consider attending:
 
-    [Introduction to Machine Learning for Humanists and Social Scientists](https://cglink.me/2gi/r1952533) (Parts 1 & 2)  
-    January 13-14, 2025 at 10:00 AM-12:00 PM  
-    Location: Arthur Lewis Auditorium in Robertson Hall  
-    Instructor: Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
+&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Machine Learning for Humanists and Social Scientists](https://cglink.me/2gi/r1952533) (Parts 1 & 2)  
+January 13-14, 2025 at 10:00 AM-12:00 PM  
+Location: Arthur Lewis Auditorium in Robertson Hall  
+Instructor: Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
 
 ### Colab Not Working?
 

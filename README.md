@@ -6,7 +6,7 @@ Attendees should have some familiarity with Python and basic calculus. This mini
 
 ### Days 1-4
 
-[Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)  
+**[Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)**  
 January 15, 16, 17, 21 (2025) at 2:00-4:00 PM  
 Location: Lewis Library 120  
 Instructors:  
@@ -17,7 +17,7 @@ Gage DeZoort, Postdoctoral Research Associate and Lecturer, Physics
 
 Choose one of these options:
 
-* [Getting Started with Large Language Models with Princeton Language and Intelligence](https://cglink.me/2gi/r1951386) (Parts 1 & 2)  
+* **[Getting Started with Large Language Models with Princeton Language and Intelligence](https://cglink.me/2gi/r1951386)** (Parts 1 & 2)  
     January 22-23, 2025 at 2:00-4:00 PM  
     Location: Lewis Library 120  
     Instructors:  

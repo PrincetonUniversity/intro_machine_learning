@@ -6,7 +6,7 @@ Attendees should have some familiarity with Python and basic calculus. This mini
 
 ### Days 1-4
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 15, 16, 17, 21 (2025) at 2:00-4:00 PM  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Lewis Library 120  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructors:  

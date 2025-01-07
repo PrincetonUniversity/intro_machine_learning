@@ -6,18 +6,18 @@ Attendees should have some familiarity with Python and basic calculus. This mini
 
 ### Days 1-4
 
-**[Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)**  
+[Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1951382)  
 January 15, 16, 17, 21 (2025) at 2:00-4:00 PM  
 Location: Lewis Library 120  
 Instructors:  
 Julian Gold, DataX Data Scientist, CSML  
 Gage DeZoort, Postdoctoral Research Associate and Lecturer, Physics  
 
-### Day 5
+### Day 5 (and 6)
 
 Choose one of these options:
 
-* **[Getting Started with Large Language Models with Princeton Language and Intelligence](https://cglink.me/2gi/r1951386)** (Parts 1 & 2)  
+* [Getting Started with Large Language Models with Princeton Language and Intelligence](https://cglink.me/2gi/r1951386) (Parts 1 & 2)  
     January 22-23, 2025 at 2:00-4:00 PM  
     Location: Lewis Library 120  
     Instructors:  
@@ -42,10 +42,10 @@ Choose one of these options:
 
 To prepare for this mini-course, consider attending:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Machine Learning for Humanists and Social Scientists](https://cglink.me/2gi/r1952533) (Parts 1 & 2)  
-  &nbsp;&nbsp;&nbsp;&nbsp;January 13-14, 2025 at 10:00 AM-12:00 PM  
-  &nbsp;&nbsp;&nbsp;&nbsp;Location: Arthur Lewis Auditorium in Robertson Hall  
-  &nbsp;&nbsp;&nbsp;&nbsp;Instructor: Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Machine Learning for Humanists and Social Scientists](https://cglink.me/2gi/r1952533) (Parts 1 & 2)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 13-14, 2025 at 10:00 AM-12:00 PM  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Arthur Lewis Auditorium in Robertson Hall  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructor: Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
 
 ## Colab Not Working?
 

@@ -47,6 +47,17 @@ To prepare for this mini-course, consider attending:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Arthur Lewis Auditorium in Robertson Hall  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructor: Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
 
+### After the Mini-Course
+
+Continue learning about machine learning and data science by attending the following:
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Optimal Transport: Applications to Machine Learning, Cognitive Science, and Computational Biology](https://cglink.me/2gi/r1952543)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, January 23, 2025 at 10:30 AM-1:30 PM  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Bendheim House 103  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructors:  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarah-Jane Leslie, Professor of Philosophy and CSML, and NAM Co-Director  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Julian Gold, DataX Data Scientist, CSML  
+
 ## Colab Not Working?
 
 You can run the notebooks for days 1 and 2 of this workshop using only a web browser thanks to jupyterlite. 

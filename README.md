@@ -51,7 +51,7 @@ To prepare for this mini-course, consider attending:
 
 Continue learning about machine learning and data science by attending the following:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Optimal Transport: Applications to Machine Learning, Cognitive Science, and Computational Biology](https://cglink.me/2gi/r1952543)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Introduction to Optimal Transport: Applications to Machine Learning, Cognitive Science, and Comp. Biology](https://cglink.me/2gi/r1952543)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday, January 23, 2025 at 10:30 AM-1:30 PM  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Bendheim House 103  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructors:  

@@ -1,6 +1,6 @@
 # A Hands-On Introduction to Machine Learning
 
-This mini-course provides a comprehensive introduction to machine learning. Part 1 introduces the machine learning process and shows participants how to train simple models. Part 2 covers model evaluation and refinement. Artificial neural networks are introduced in Part 3. A survey of different neural network architectures is presented in Part 4. The mini-course concludes with a hackathon during Part 5 where participants will work on a small, end-to-end machine learning project chosen from one of multiple domains (e.g., natural language processing, graph neural networks, physical sciences).
+This mini-course provides a comprehensive introduction to machine learning. Part 1 introduces the machine learning process and shows participants how to train simple models. Part 2 covers model evaluation and refinement. Artificial neural networks are introduced in Part 3. A survey of different neural network architectures is presented in Part 4. The mini-course concludes with specialized sessions during Part 5 where participants will choose from one of multiple domains (natural language processing, graph neural networks, physical sciences).
 
 Attendees should have some familiarity with Python and basic calculus. This mini-course will be held during [Wintersession 2025](https://winter.princeton.edu).
 

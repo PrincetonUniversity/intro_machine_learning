@@ -66,6 +66,8 @@ Step 1: Go to [https://jdh4.github.io/intro-ml](https://jdh4.github.io/intro-ml)
 
 Step 2: In the file browser on the left, double click on `ML_overview_2024.ipynb` for day 1 or `Intro_Machine_Learning_Part2_2024.ipynb` for day 2 . You can then run the notebook as usual without using Colab or explicitly installing anything. The notebooks will run on your local machine.
 
+[[2](https://colab.research.google.com/github/PrincetonUniversity/intro_machine_learning/blob/main/day2/Intro_Machine_Learning_Part2.ipynb)]
+
 ## Undergraduate A.I. Conference at Princeton
 
 The Princeton undergraduate student group, [Envision](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.envisionprinceton.com%2F%23page1&data=05%7C02%7Chalverson%40Princeton.EDU%7C016ce7f1c90242f8d7b508dd193e02fa%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638694476311451151%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vaQba4WX5uw5l0%2FmGNMU8Vkadb93MhnJs9EyfLIwSpU%3D&reserved=0), is hosting a day-long student-focused conference on February 22, 2025. The conference aims to explore the intersection of A.I., information tech policy, and ethics, with the goal of educating, inspiring action, and shaping tomorrow’s leaders.

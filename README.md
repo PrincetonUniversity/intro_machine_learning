@@ -66,7 +66,7 @@ Step 1: Go to [https://jdh4.github.io/intro-ml](https://jdh4.github.io/intro-ml)
 
 Step 2: In the file browser on the left, double click on `ML_overview_2024.ipynb` for day 1 or `Intro_Machine_Learning_Part2_2024.ipynb` for day 2 . You can then run the notebook as usual without using Colab or explicitly installing anything. The notebooks will run on your local machine.
 
-[[2](https://colab.research.google.com/github/PrincetonUniversity/intro_machine_learning/blob/main/day2/Intro_Machine_Learning_Part2.ipynb)]
+[[2](https://colab.research.google.com/github/PrincetonUniversity/intro_machine_learning/blob/main/day2/Intro_Machine_Learning_Part2.ipynb)] [[3]](https://colab.research.google.com/github/PrincetonUniversity/intro_machine_learning/blob/main/day3/Intro_Machine_Learning_Part3.ipynb)
 
 ## Undergraduate A.I. Conference at Princeton
 

@@ -11,7 +11,7 @@ Attendees should have some familiarity with Python and basic calculus. This mini
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Robertson Hall 002  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructors:  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Julian Gold, Data Scientist, AI Lab  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;John Hanke, Research Software Engineer and Lecturer, AI Lab  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Hanke, Research Software Engineer and Lecturer, AI Lab  
 
 ### After the Mini-Course
 

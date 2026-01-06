@@ -13,7 +13,7 @@ Attendees should have some familiarity with Python and basic calculus. This mini
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Julian Gold, Data Scientist, AI Lab  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Hanke, Research Software Engineer and Lecturer, AI Lab  
 
-### After the Mini-Course
+### Additional ML/AI Training
 
 Consider attending these workshops:
 

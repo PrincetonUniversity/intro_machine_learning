@@ -15,7 +15,7 @@ Attendees should have some familiarity with Python and basic calculus. This mini
 
 ### After the Mini-Course
 
-Choose one of these options:
+Consider attending these workshops:
 
 * [Copilot -- Your A.I. Collaborator](https://cglink.me/2gi/r1969275)  
     Thursday, January 15, 2026 at 1:30-3:00 PM   

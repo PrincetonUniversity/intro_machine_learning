@@ -1,12 +1,12 @@
-# A Hands-On Introduction to Machine Learning
+# A Hands-On Introduction to AI
 
-This mini-course provides a comprehensive introduction to machine learning. Part 1 introduces the machine learning process and shows participants how to train simple models. Part 2 covers model evaluation and refinement. Artificial neural networks are introduced in Part 3. A survey of different neural network architectures is presented in Part 4.
+This mini-course provides a comprehensive introduction to artificial intelligence. Part 1 introduces the machine learning process and shows participants how to train simple models. Part 2 covers model evaluation and refinement. Artificial neural networks are introduced in Part 3. A survey of different neural network architectures is presented in Part 4.
 
 Attendees should have some familiarity with Python and basic calculus. This mini-course is part of the [Research Computing Winter 2026 Training Program](https://researchcomputing.princeton.edu/learn/workshops-live-training).
 
 ### Days 1-4
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A Hands-On Introduction to Machine Learning](https://cglink.me/2gi/r1969281)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[A Hands-On Introduction to AI](https://cglink.me/2gi/r1969281)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 13, 14, 15, 16 (2026) at 10:00 AM-12:00 PM  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Robertson Hall 002  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instructors:  
